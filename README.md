@@ -8,7 +8,7 @@ By day I am CTO and co-founder at [Coditas](https://coditas.com) in Pune.
 
 <!-- showcase:start -->
 - **[awesome-software-factories](https://github.com/varun1505/awesome-software-factories)** ★ 105<br>A curated list of software factories, agent factories, and dark factories: systems that run AI coding agents autonomously, in parallel, and in loops.
-- **[floci-aws-ui](https://github.com/varun1505/floci-aws-ui)** ★ 2<br>A web console for floci, the local AWS emulator. Built with Cloudscape.
+- **[floci-aws-ui](https://github.com/varun1505/floci-aws-ui)** ★ 3<br>A web console for floci, the local AWS emulator. Built with Cloudscape.
 <!-- showcase:end -->
 
 ## Find me
